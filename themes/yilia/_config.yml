@@ -44,6 +44,8 @@ share_addthis: false
 duoshuo: yuanjiahui01
 #是否开启云标签
 tagcloud: true
+#百度统计
+baidu_tongji: true
 
 #是否开启友情链接
 #不开启——
